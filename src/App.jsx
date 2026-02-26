@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router";
 const Home = () => {
   return (
     <div className="text-center">
-      <h1>메인 화면입니다.</h1>
+      <h1>메인 화면입니다?!</h1>
     </div>
   )
 }
